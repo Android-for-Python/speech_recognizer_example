@@ -3,6 +3,8 @@ Speech Recognizer Example
 
 *Transcribe and copy to clipboard.*
 
+**2023-11-13 This repository is archived.**
+
 Uses Android [SpeechRecognizer](https://developer.android.com/reference/android/speech/SpeechRecognizer) to transcribe.
 
 Key `buildozer.spec` changes:
